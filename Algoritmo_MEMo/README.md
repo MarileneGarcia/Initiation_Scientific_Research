@@ -6,9 +6,9 @@ O projeto foi baseado em um artigo academico, ha um relatorio associado a ele e 
 ##  Pre requisitos 
 O software foi implementado utilizando a linguagem de programacao Python (versão 3.6.7), logo devera ser executado em maquinas com interpretadores adequados.
 
-E necessario instalar a biblioteca igraph(versão 0.7.1), disponivel em "https://igraph.org/"
+E necessario instalar a biblioteca igraph(versão 0.7.1), disponivel em https://igraph.org/
 
-E necessario instalar a biblioteca Pandas(versão 0.24.2), disponivel em "https://pandas.pydata.org/"
+E necessario instalar a biblioteca Pandas(versão 0.24.2), disponivel em https://pandas.pydata.org/
 
 Quando executado, o algoritmo necessitara do fornecimento do nome dos arquivos do genes mutados em determinados pacientes (geralmente um arquivo maf), da rede de associacao de pares de genes (HRN) e tambem do que contem os genes que serao analisados (genes que passaram nos filtros). E necessario ler o relatorio do projeto para saber como devem ser os modelos desses arquivos descritos na secao de desenvolvimento (terceira secao). **Esses arquivos devem estar na mesma pasta na qual estao todos os codigos e o nome deles deve ser preenchido no script**
 
