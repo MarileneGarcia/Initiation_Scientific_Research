@@ -12,7 +12,7 @@ E necessario instalar a biblioteca Pandas(versão 0.24.2), disponivel em https:/
 
 Quando executado, o algoritmo necessitara do fornecimento do nome dos arquivos do genes mutados em determinados pacientes (geralmente um arquivo maf), da rede de associacao de pares de genes (HRN) e tambem do que contem os genes que serao analisados (genes que passaram nos filtros). E necessario ler o relatorio do projeto para saber como devem ser os modelos desses arquivos descritos na secao de desenvolvimento (terceira secao). **Esses arquivos devem estar na mesma pasta na qual estao todos os codigos e o nome deles deve ser preenchido no script**
 
-**Vale ressaltar que o codigo foram executados em dois computadores, com as seguintes especificacoes:**
+**Vale ressaltar que os codigos foram executados em dois computadores, com as seguintes especificacoes:**
 1. Intel Core i5-7300HQ @ 3.50GHz, quad-core, 8192MB RAM, LinuxMint 18.3 operating system
 2. Intel Core i7-5500U @ 2.30GHz, quad-core, 8192MB RAM, Ubuntu 18.04 operating system
 
