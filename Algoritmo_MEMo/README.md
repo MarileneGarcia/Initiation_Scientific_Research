@@ -17,7 +17,7 @@ Quando executado, o algoritmo necessitara do fornecimento do nome dos arquivos d
 2. Intel Core i7-5500U @ 2.30GHz, quad-core, 8192MB RAM, Ubuntu 18.04 operating system
 
 ## Guia de execucao
-Considerando que o usuario esteja utilizando a versao correta do Python, e que o interpretador seja o python3, deve-se estar no diretorio *Algoritmo_MEMo* e digitar o seguinte comando no terminal do Linux:
+Considerando que o usuario esteja utilizando a versao correta do Python, e que o interpretador seja o python3, deve-se estar no diretorio *Iniciacao_Cientifica/Algoritmo_MEMo/Versao_Final/* e digitar o seguinte comando no terminal do Linux:
 **python3 script_MEMo.py**
 
 ## Resultados
