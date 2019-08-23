@@ -1,0 +1,17 @@
+O P valor do pathway que contem os genes : APOB HSPG2 é equivalente a : 1.0
+O P valor do pathway que contem os genes : APOB LRP1 é equivalente a : 0.5
+O P valor do pathway que contem os genes : LAMA2 LAMA3 é equivalente a : 1.0
+O P valor do pathway que contem os genes : LAMA2 RELN é equivalente a : 0.7
+O P valor do pathway que contem os genes : LAMA2 L1CAM é equivalente a : 0.7
+O P valor do pathway que contem os genes : PPP1R3A APC é equivalente a : 0.7
+O P valor do pathway que contem os genes : LAMA3 DST é equivalente a : 0.2
+O P valor do pathway que contem os genes : ANK2 MYH11 é equivalente a : 0.8
+O P valor do pathway que contem os genes : APC NEB é equivalente a : 0.4
+O P valor do pathway que contem os genes : RELN PRKDC é equivalente a : 0.3
+O P valor do pathway que contem os genes : HUWE1 BRCA1 é equivalente a : 0.3
+O P valor do pathway que contem os genes : TTN MYH4 é equivalente a : 0.2
+O P valor do pathway que contem os genes : TTN MYH11 é equivalente a : 0.2
+O P valor do pathway que contem os genes : BRCA2 BRCA1 é equivalente a : 0.0
+O P valor do pathway que contem os genes : CHD4 RB1 é equivalente a : 0.8
+
+O tempo de execução do código foi de: 1272.3861861228943 segundos
