@@ -10,7 +10,7 @@ E necessario instalar a biblioteca igraph(versão 0.7.1), disponivel em https://
 
 E necessario instalar a biblioteca Pandas(versão 0.24.2), disponivel em https://pandas.pydata.org/
 
-Quando executado, o algoritmo necessitara do fornecimento do nome dos arquivos do genes mutados em determinados pacientes (geralmente um arquivo maf), da rede de associacao de pares de genes (HRN) e tambem do que contem os genes que serao analisados (genes que passaram nos filtros). E necessario ler o relatorio do projeto para saber como devem ser os modelos desses arquivos descritos na secao de desenvolvimento (terceira secao). **Esses arquivos devem estar na mesma pasta na qual estao todos os codigos e o nome deles deve ser preenchido no script**
+Quando executado, o algoritmo necessitara do fornecimento do nome dos arquivos do genes mutados em determinados pacientes (geralmente um arquivo maf), da rede de associacao de pares de genes (HRN) e tambem do que contem os genes que serao analisados (genes que passaram nos filtros). E necessario ler o relatorio do projeto para saber como devem ser os modelos desses arquivos descritos na secao de desenvolvimento (terceira secao). **Esses arquivos devem estar na mesma pasta na qual estao todos os codigos e o nome deles deve ser preenchido no script (script_MEMo.py)**
 
 **Vale ressaltar que os codigos foram executados em dois computadores, com as seguintes especificacoes:**
 1. Intel Core i5-7300HQ @ 3.50GHz, quad-core, 8192MB RAM, LinuxMint 18.3 operating system
