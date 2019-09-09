@@ -1,0 +1,23 @@
+O P valor do pathway que contem os genes : ANK2 EYA1 é equivalente a : 0.9
+O P valor do pathway que contem os genes : DES GSTM5 é equivalente a : 1.0
+O P valor do pathway que contem os genes : EPHA7 EPHA8 é equivalente a : 0.8
+O P valor do pathway que contem os genes : EPHA8 ITPR3 é equivalente a : 0.8
+O P valor do pathway que contem os genes : EPHA8 EPHA3 é equivalente a : 0.6
+O P valor do pathway que contem os genes : PRKDC TP53 é equivalente a : 0.3
+O P valor do pathway que contem os genes : PRKDC CHEK1 é equivalente a : 0.2
+O P valor do pathway que contem os genes : RB1 PIM1 é equivalente a : 0.6
+O P valor do pathway que contem os genes : RB1 EGFR é equivalente a : 0.3
+O P valor do pathway que contem os genes : PAX5 PIM1 é equivalente a : 0.1
+O P valor do pathway que contem os genes : PSMD13 EGFR é equivalente a : 0.5
+O P valor do pathway que contem os genes : DST PIK3CG é equivalente a : 0.5
+O P valor do pathway que contem os genes : TNFRSF10A TNFRSF1B é equivalente a : 0.9
+O P valor do pathway que contem os genes : PTEN EGFR é equivalente a : 0.1
+O P valor do pathway que contem os genes : PTEN MET é equivalente a : 0.7
+O P valor do pathway que contem os genes : TNK2 MET é equivalente a : 0.9
+O P valor do pathway que contem os genes : BCR EPHA3 é equivalente a : 0.7
+O P valor do pathway que contem os genes : PTEN PIK3CA PIK3R1 EGFR é equivalente a : 0.0
+O P valor do pathway que contem os genes : PTEN PIK3CA PIK3R1 EGFR ERBB2 é equivalente a : 0.0
+O P valor do pathway que contem os genes : PIK3R1 EGFR é equivalente a : 0.7
+O P valor do pathway que contem os genes : EGFR PDGFRA PIK3CA PIK3CG PIK3R1 ERBB2 é equivalente a : 0.0
+
+O tempo de execução do código foi de: 751.4532449245453 segundos

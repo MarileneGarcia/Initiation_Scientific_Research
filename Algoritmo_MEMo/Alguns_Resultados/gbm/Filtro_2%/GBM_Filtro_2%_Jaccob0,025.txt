@@ -1,0 +1,14 @@
+O P valor do pathway que contem os genes : BRCA2 NF1 é equivalente a : 0.9
+O P valor do pathway que contem os genes : PSMD13 EGFR é equivalente a : 0.0
+O P valor do pathway que contem os genes : EGFR TP53 é equivalente a : 0.0
+O P valor do pathway que contem os genes : PRKDC PTEN é equivalente a : 0.9
+O P valor do pathway que contem os genes : PRKDC TP53 é equivalente a : 0.9
+O P valor do pathway que contem os genes : DST ERBB2 é equivalente a : 0.5
+O P valor do pathway que contem os genes : PTEN PIK3CG é equivalente a : 0.4
+O P valor do pathway que contem os genes : PTEN EGFR é equivalente a : 0.0
+O P valor do pathway que contem os genes : PIK3CA PIK3R1 EGFR PTEN é equivalente a : 0.0
+O P valor do pathway que contem os genes : PDGFRA PIK3CA PIK3CG PIK3R1 EGFR é equivalente a : 0.0
+O P valor do pathway que contem os genes : PTEN PIK3CA ERBB2 PIK3R1 EGFR é equivalente a : 0.0
+O P valor do pathway que contem os genes : PIK3CA PIK3CG ERBB2 PIK3R1 EGFR é equivalente a : 0.0
+
+O tempo de execução do código foi de: 651.1843256950378 segundos

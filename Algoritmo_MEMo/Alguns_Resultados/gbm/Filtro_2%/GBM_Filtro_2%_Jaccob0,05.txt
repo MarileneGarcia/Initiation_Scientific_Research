@@ -1,0 +1,10 @@
+O P valor do pathway que contem os genes : BCR FN1 é equivalente a : 1.0
+O P valor do pathway que contem os genes : FGFR1 PTEN é equivalente a : 0.2
+O P valor do pathway que contem os genes : PSMD13 EGFR é equivalente a : 0.0
+O P valor do pathway que contem os genes : COL1A1 FN1 é equivalente a : 0.0
+O P valor do pathway que contem os genes : TNK2 MET é equivalente a : 0.1
+O P valor do pathway que contem os genes : PTEN EGFR PDGFRA PIK3CA PIK3R1 é equivalente a : 0.0
+O P valor do pathway que contem os genes : PIK3CA PIK3R1 é equivalente a : 0.0
+O P valor do pathway que contem os genes : PIK3R1 PDGFRA PIK3CA PIK3CG ERBB2 EGFR é equivalente a : 0.0
+
+O tempo de execução do código foi de: 586.6418917179108 segundos
