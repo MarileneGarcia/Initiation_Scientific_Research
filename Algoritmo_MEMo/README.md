@@ -1,7 +1,7 @@
 # Projeto de Iniciação científica 
-# Metodo MEMo (Mutual Exclusivity Modules in cancer) 
+# Método MEMo (Mutual Exclusivity Modules in cancer) 
 
-O projeto foi baseado em um artigo acadêmico, ha um relatório associado a ele e esta é a primeira versão do software desenvolvido.
+O projeto foi baseado em um artigo acadêmico, há um relatório associado a ele e esta é a primeira versão do software desenvolvido.
 
 ##  Pré requisitos 
 O software foi implementado utilizando a linguagem de programação Python (versão 3.6.7), logo deverá ser executado em máquinas com interpretadores adequados.
@@ -10,7 +10,7 @@ E necessário instalar a biblioteca igraph(versão 0.7.1), disponível em https:
 
 E necessário instalar a biblioteca Pandas(versão 0.24.2), disponível em https://pandas.pydata.org/
 
-Quando executado, o algoritmo necessitará do fornecimento do nome dos arquivos do genes mutados em determinados pacientes (geralmente um arquivo maf), da rede de associacao de pares de genes (HRN) e tambám do que contém os genes que serão analisados (genes que passaram nos filtros). E necessário ler o relatório do projeto para saber como devem ser os modelos desses arquivos descritos na seção de desenvolvimento (terceira seção). **Esses arquivos devem estar na mesma pasta na qual estão todos os códigos e o nome deles deve ser preenchido no script (script_MEMo.py).**
+Quando executado, o algoritmo necessitará do fornecimento do nome dos arquivos do genes mutados em determinados pacientes (geralmente um arquivo maf), da rede de associação de pares de genes (HRN) e também do que contém os genes que serão analisados (genes que passaram nos filtros). É necessário ler o relatório do projeto para saber como devem ser os modelos desses arquivos descritos na seção de desenvolvimento (terceira seção). **Esses arquivos devem estar na mesma pasta na qual estão todos os códigos e o nome deles deve ser preenchido no script (script_MEMo.py).**
 
 **Vale ressaltar que os códigos foram executados em dois computadores, com as seguintes especificações:**
 1. Intel Core i5-7300HQ @ 3.50GHz, quad-core, 8192MB RAM, LinuxMint 18.3 operating system
@@ -21,5 +21,5 @@ Considerando que o usuário esteja utilizando a versão correta do Python, e que
 **python3 script_MEMo.py**
 
 ## Resultados
-Os resultados estaram disponíveis no arquivo texto *Resultados_do_metodo.txt*
+Os resultados estarão disponíveis no arquivo texto *Resultados do metodo.txt*
 
