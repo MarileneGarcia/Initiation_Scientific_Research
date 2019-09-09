@@ -1,9 +1,9 @@
-# Projeto de Iniciacao cientifica 
+# Projeto de Iniciação científica 
 # Metodo MEMo (Mutual Exclusivity Modules in cancer) 
 
 O projeto foi baseado em um artigo acadêmico, ha um relatório associado a ele e esta é a primeira versão do software desenvolvido.
 
-##  Pre requisitos 
+##  Pré requisitos 
 O software foi implementado utilizando a linguagem de programação Python (versão 3.6.7), logo deverá ser executado em máquinas com interpretadores adequados.
 
 E necessário instalar a biblioteca igraph(versão 0.7.1), disponível em https://igraph.org/
