@@ -8,7 +8,7 @@ from igraph import *
 import Permutacao_Comutacao
 
 # Constante do algoritmo
-N = 10 
+N = 10000
 
 def redes_aleatorias(pathways, dicionario_mutacoes_original, grafo_eventos_original):
   P_valor = []
